@@ -1,2 +1,2 @@
 
-python /Facial_Recognition/Tkinter.py
+python Tkinter.py
