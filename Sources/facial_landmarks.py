@@ -29,23 +29,23 @@ def distances(shape):
 	tab_differences = []
 	for (i) in (shape):
 		tab_new_shape.append(i)
-	tab_differences.append(sqrt(pow((tab_new_shape[17][0]-tab_new_shape[21][0]),2)+pow((tab_new_shape[17][1]-tab_new_shape[21][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[21][0]-tab_new_shape[22][0]),2)+pow((tab_new_shape[21][1]-tab_new_shape[22][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[22][0]-tab_new_shape[26][0]),2)+pow((tab_new_shape[22][1]-tab_new_shape[26][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[26][0]-tab_new_shape[16][0]),2)+pow((tab_new_shape[26][1]-tab_new_shape[16][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[0][0]-tab_new_shape[36][0]),2)+pow((tab_new_shape[0][1]-tab_new_shape[36][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[36][0]-tab_new_shape[39][0]),2)+pow((tab_new_shape[36][1]-tab_new_shape[39][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[39][0]-tab_new_shape[42][0]),2)+pow((tab_new_shape[39][1]-tab_new_shape[42][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[42][0]-tab_new_shape[45][0]),2)+pow((tab_new_shape[42][1]-tab_new_shape[45][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[45][0]-tab_new_shape[16][0]),2)+pow((tab_new_shape[45][1]-tab_new_shape[16][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[27][0]-tab_new_shape[31][0]),2)+pow((tab_new_shape[27][1]-tab_new_shape[31][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[32][0]-tab_new_shape[36][0]),2)+pow((tab_new_shape[32][1]-tab_new_shape[36][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[33][0]-tab_new_shape[51][0]),2)+pow((tab_new_shape[33][1]-tab_new_shape[51][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[57][0]-tab_new_shape[8][0]),2)+pow((tab_new_shape[57][1]-tab_new_shape[8][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[0][0]-tab_new_shape[16][0]),2)+pow((tab_new_shape[0][1]-tab_new_shape[16][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[5][0]-tab_new_shape[11][0]),2)+pow((tab_new_shape[5][1]-tab_new_shape[11][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[51][0]-tab_new_shape[62][0]),2)+pow((tab_new_shape[51][1]-tab_new_shape[62][1]),2)));
-	tab_differences.append(sqrt(pow((tab_new_shape[66][0]-tab_new_shape[57][0]),2)+pow((tab_new_shape[66][1]-tab_new_shape[57][1]),2)));
+	tab_differences.append(sqrt(pow((tab_new_shape[17][0]-tab_new_shape[21][0]),2)+pow((tab_new_shape[17][1]-tab_new_shape[21][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[21][0]-tab_new_shape[22][0]),2)+pow((tab_new_shape[21][1]-tab_new_shape[22][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[22][0]-tab_new_shape[26][0]),2)+pow((tab_new_shape[22][1]-tab_new_shape[26][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[26][0]-tab_new_shape[16][0]),2)+pow((tab_new_shape[26][1]-tab_new_shape[16][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[0][0]-tab_new_shape[36][0]),2)+pow((tab_new_shape[0][1]-tab_new_shape[36][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[36][0]-tab_new_shape[39][0]),2)+pow((tab_new_shape[36][1]-tab_new_shape[39][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[39][0]-tab_new_shape[42][0]),2)+pow((tab_new_shape[39][1]-tab_new_shape[42][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[42][0]-tab_new_shape[45][0]),2)+pow((tab_new_shape[42][1]-tab_new_shape[45][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[45][0]-tab_new_shape[16][0]),2)+pow((tab_new_shape[45][1]-tab_new_shape[16][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[27][0]-tab_new_shape[31][0]),2)+pow((tab_new_shape[27][1]-tab_new_shape[31][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[32][0]-tab_new_shape[36][0]),2)+pow((tab_new_shape[32][1]-tab_new_shape[36][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[33][0]-tab_new_shape[51][0]),2)+pow((tab_new_shape[33][1]-tab_new_shape[51][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[57][0]-tab_new_shape[8][0]),2)+pow((tab_new_shape[57][1]-tab_new_shape[8][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[0][0]-tab_new_shape[16][0]),2)+pow((tab_new_shape[0][1]-tab_new_shape[16][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[5][0]-tab_new_shape[11][0]),2)+pow((tab_new_shape[5][1]-tab_new_shape[11][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[51][0]-tab_new_shape[62][0]),2)+pow((tab_new_shape[51][1]-tab_new_shape[62][1]),2)))
+	tab_differences.append(sqrt(pow((tab_new_shape[66][0]-tab_new_shape[57][0]),2)+pow((tab_new_shape[66][1]-tab_new_shape[57][1]),2)))
 	
 
 				
